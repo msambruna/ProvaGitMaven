@@ -24,6 +24,7 @@ public class Hotel {
 	private String city;
 	private int stars;
 	/*  modifica mary */	
+	/*    modifica   ulteriore    */
 	
 	/**
 	 * Default constructor;
