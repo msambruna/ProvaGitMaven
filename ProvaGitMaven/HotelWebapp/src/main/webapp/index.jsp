@@ -10,6 +10,8 @@
 	HotelModel model = new HotelModel();
 	String[] cityList = model.findAvailableCities();
 	//	  modifica mary 
+	
+	//modifica da remoto
 
 	String selectedCity = request.getParameter("city");
 	List<Hotel> hotelList = model.findHotelsByCity(selectedCity);
