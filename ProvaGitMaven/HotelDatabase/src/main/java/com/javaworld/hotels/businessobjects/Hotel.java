@@ -23,7 +23,7 @@ public class Hotel {
 	private String address;
 	private String city;
 	private int stars;
-	
+	/*  modifica mary */	
 	
 	/**
 	 * Default constructor;

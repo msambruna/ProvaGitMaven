@@ -32,10 +32,11 @@ public class HotelModel {
 		"Paris",
 		"London",
 	};
-	
-	/**
-	 * The list of all hotels in the database.
+	 of all hotels in the database.
 	 */
+	/*  modifica mary */
+	
+	/* The list**/
 	private static Hotel[] hotels = {
 		new Hotel("Hotel Latin","Quartier latin","Paris",3),
 		new Hotel("Hotel Etoile","Place de l'Etoile","Paris",4),
